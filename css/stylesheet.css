@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+
+
+
+
+.navbar.navbar-default{
+	border-style: none;
+	border-radius: 0px;
+	background-color: #FFFFFF;
+	color: #020202;
+	margin-top: 20px;
+}
+.image-fill {
+	width: 100%;
+}
+#wrapper {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+h1, h3, p {
+	text-align: center;
+}
+#main {
+	width: 50%;
+	max-width: 750px;
+	margin-top: 60px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	
+}
+footer {
+	margin-top: 60px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #7D7979;
+	color: #F2EEEE;
+	text-align: center;
+}
+
+.img-rounded.img-responsive {
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p.contact {
+	text-align: left;
+}
